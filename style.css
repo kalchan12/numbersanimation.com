@@ -1,0 +1,196 @@
+body {
+    display: grid;    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+}
+.title-header{
+display: flex;
+justify-content: center;
+background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
+height: 100px;
+width: 500px;
+margin-left: 9em;
+border-radius: 20px;
+
+}
+.ku{
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+.title{
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 1em;
+  
+    font-size: 50px;
+
+}
+.container{
+    display: flex;
+}
+.bube{
+    
+    margin-left: 10em;
+    border-radius: 40px;
+
+}
+.names{
+    display: flex;
+    color: white;
+    height: 400px;
+    width: 1450px;
+    margin: 2em;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+
+
+}
+.list-names{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style: none ;
+    
+}
+.name-container{
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    width: 700px;
+    height: 325px;
+    border-radius: 20px;
+    margin: 2em;
+}
+.roles{
+    
+    width: 630px;
+    height: 325px;
+   
+    margin-top: 2em;
+    border-radius: 20px;
+    background-image: linear-gradient(to top, #f43b47 0%, #453a94 100%);
+    
+}
+.role-list{
+    list-style: none;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+   
+    
+
+    
+}
+.click {
+    display: flex;
+    text-align: center;
+    margin-left: 1.8em;
+    font-size: 20px;
+    color: black;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.files{
+   display: flex;
+   justify-content: center;
+    height: 400px;
+    margin-top: 2em;
+    background-image: linear-gradient(-20deg, #2b5876 0%, #4e4376 100%);
+}
+.pdf{
+     margin-top: 5em;
+    display: grid;
+    display: flex;
+    height: 500px;
+    width: 1000px;
+    border-radius: 20px;
+    
+    background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
+}
+.Adobefiles{
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+    height: 300px;
+    width: 300px;
+    margin-left: 11em;
+    margin-top: 2em;
+    border-radius: 20px;
+    
+}
+.adh{
+width: 200px;
+list-style: none;
+text-decoration: none;
+text-align: center;
+
+}
+.adoli{
+    background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
+    height: 40px;
+    border-radius: 10px;
+    font-size: 20px;
+  
+}
+.adol{
+    margin-top: 1em;
+    background-image: linear-gradient(to right, #243949 0%, #517fa4 100%);
+    height: 40px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.adol:hover{
+    
+    background-image: linear-gradient(to right, #ed6ea0 0%, #ec8c69 100%);;
+}
+.adoli:hover{
+    background-image: linear-gradient(to right, #ed6ea0 0%, #ec8c69 100%);
+}
+.Adobefiles:hover{
+    cursor: pointer;
+    background-image: linear-gradient(to top, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f3a469 87%, #f7c978 100%);
+      height: 295px;
+      width: 280px;
+      opacity: 0.5px;
+}
+
+
+
+.script{
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+    height: 300px;
+    width: 300px;
+    margin-top: 2em;
+    margin-left: 2em;
+    border-radius: 20px;
+}
+.script:hover{
+  cursor: pointer;
+  background-image: linear-gradient(to top, #3f51b1 0%, #5a55ae 13%, #7b5fac 25%, #8f6aae 38%, #a86aa4 50%, #cc6b8e 62%, #f18271 75%, #f3a469 87%, #f7c978 100%);
+    height: 295px;
+    width: 280px;
+    opacity: 0.5px;
+
+}
+
+.h1s{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.scri{
+    list-style: none;
+    color: black;
+    font-size: 26px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+   
+}
+a {
+    text-decoration: none;
+  }
+.scri:hover{
+    cursor: pointer;
+    background-color: #30cfd0;
+
+}
